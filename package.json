@@ -2,11 +2,15 @@
   "name": "english-writing-formatter",
   "displayName": "English Writing Formatter",
   "description": "",
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FlipFlopszzz/English-Writing-Formatter"
+  },
   "engines": {
     "vscode": "^1.95.0"
   },
-  "publisher": "flipFlops",
+  "publisher": "FlipFlopszzz",
   "categories": [
     "Formatters"
   ],
